@@ -16,11 +16,12 @@ Work in Progress, chapter structure and content is subject to change as it is in
 
 ## Authors
 
- - A.Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
+ - A Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
 
 ## Contributors
 
- - A.Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
+ - A Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
+ - Aravind Muthukumaraswamy, created the book cover
 
 
 ## Formats
