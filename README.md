@@ -6,7 +6,7 @@ what I learnt by reading and testing rubymotion code from other developers
 
 I like https://github.com/visionmedia/masteringnode system of building book(generously copying its code and structure) which is easy to build and publish
 
-Work in Progress
+Work in Progress, chapter structure and content is subject to change as it is in very preliminary stages
 
 
 
