@@ -39,7 +39,7 @@ regenerate: clean all
 
 book.pdf: $(HTML)
 	@echo "\n... generating $@"
-	htmldoc $(HTML) $(PDF_FLAGS) --outfile $@
+	htmldoc --titlefile html/rubymotioncookbook2.png $(HTML) $(PDF_FLAGS) --outfile $@
 
 book.html: html/head.html html/tail.html $(HTML)
 	@echo "\n... generating $@"
@@ -57,11 +57,11 @@ book.mobi:
 book.epub:
 	@echo "\n... generating $@"
 	ebook-convert book.html book.epub \
-		--title "Mastering Node" \
+		--title "RubyMotion Cookbool" \
 		--no-default-epub-cover \
-		--authors "TJ Holowaychuk" \
+		--authors "A Senthil Nayagam" \
 		--language en \
-		--cover pages/cover.jpg
+		--cover html/rubymotioncookbook2.png
 
 view: book.pdf
 	open book.pdf
