@@ -18,6 +18,11 @@ Work in Progress, chapter structure and content is subject to change as it is in
 
  - A.Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
 
+## Contributors
+
+ - A.Senthil Nayagam ([railsfactory](http://github.com/railsfactory))
+
+
 ## Formats
 
  RubyMotion Cookbook is written using the markdown files provided in `./chapters`, which can then be converted to several output formats, currently including _pdf_, _mobi_, _epub_ and of course _html_.
