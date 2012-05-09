@@ -9,6 +9,8 @@ PDF_FLAGS = --fontsize 9.0 \
 MD = pages/index.md \
 	 chapters/installation.md \
 	 chapters/gettingstarted.md \
+	 chapters/helloworld.md \
+	 chapters/readcode.md \
 	 chapters/bestpractices.md \
 	 chapters/controllers.md \
 	 chapters/views.md \
