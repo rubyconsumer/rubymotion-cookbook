@@ -87,3 +87,5 @@ There are three ways
     $
 
 Third way is the recommended version but when app hangs or crashes or erratic behavior you know now how to get out of it.
+
+WIP
