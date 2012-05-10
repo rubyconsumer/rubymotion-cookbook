@@ -22,7 +22,8 @@ I have tried to automate the process of downloading all the new projects for you
 It will take some time as about 100mb is downloaded directly from the repositories.
 
 
-### projects which is being checked out are
+## Projects which is being checked out are
+
 https://github.com/seanho/Currency
 https://github.com/samchandra/Fonts
 https://github.com/stiller/LOLCatApp
@@ -78,9 +79,11 @@ You can read all the project code in your favorite text editor or IDE, I prefer 
 
 See all the apps running in sequence, in your simulator, stopping app technique one and two might be occasionally required.
 
-## submit your app for this list
+## Submit your app for this list
 
+If you want your app be added, removed, please post a ticket
 
+[https://github.com/railsfactory/rubymotion-cookbook/issues](https://github.com/railsfactory/rubymotion-cookbook/issues)
 
 
 WIP

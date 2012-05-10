@@ -1,9 +1,9 @@
 
-# build your first app
+# Build your first app
 
 after seeing the screencasts you would be charged up, now let us begin
 
-## motion 
+## Motion command
 
 let us run motion and know what this command can do
 
@@ -22,7 +22,7 @@ let us run motion and know what this command can do
 
 
 
-## update motion
+## Update motion command
 RubyMotion is a moving target and it is getting frequent release, I have personally updated from 1.0 to 1.1 , 1.2,  1.3 in less than a week. one thing for sure, Laurent Sansonetti, the RubyMotion author listens to customer feedback and bug reports and fixes at a astonishing pace. I have tested over 40 apps and crashes have reduced by over 90% between these updates.
 
     $ sudo motion update

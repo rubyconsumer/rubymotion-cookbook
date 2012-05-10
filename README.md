@@ -1,7 +1,5 @@
-rubymotion-cookbook
+RubyMotion Cookbook
 ===================
-
-what I learnt by reading and testing rubymotion code from other developers
 
 
 Work in Progress, chapter structure and content is subject to change as it is in very preliminary stages
@@ -12,7 +10,7 @@ You can post your questions / problems / suggestions / sample code / corrections
 
 # RubyMotion Cookbook
 
- Mastering node is an open source eBook by node hackers for node hackers. I started this as a side project and realized that I don't have time :) so go nuts, download it, build it, fork it, extend it and share it. If you come up with something you wish to contribute back, send me a pull request.
+What I learnt by reading and testing rubymotion code from other developers, sharing with this nascent RubyMotion Developer Community
 
 ## Authors
 
@@ -91,6 +89,8 @@ I like https://github.com/visionmedia/masteringnode system of building book(gene
 
 ## Disclaimer
 No IDE or Windows machine were tortured while writing this book.
+
+Initially started with the idea of writing the book with cookbook format, but based on initial feedback it is now written for first time iOS developer who know some ruby approach, book title may change
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">RubyMotion Cookbook</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">A. Senthil Nayagam</span> is licensed under a <br/> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
