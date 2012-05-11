@@ -74,10 +74,16 @@ Contents of this eBook currently reference the following software versions:
 
 ## Source
 
-All example source can be run simply by executing node against the file,
+Source code referred in the book which you can find in the code folder
 for example:
-      $ cd code/projectname
+      $ cd code/Hello
       $ rake
+
+Third party code download steps is mentioned in Read Code chapter and the shell scripts to download all the 40+ projects exist in projects folder
+
+    $ cd projects
+    $ sh clone_all.sh
+    $ sh run_all.sh
 
 ## License
 
