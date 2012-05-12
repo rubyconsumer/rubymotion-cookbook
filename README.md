@@ -14,7 +14,7 @@ What I learnt by reading and testing rubymotion code from other developers, shar
 
 ## Authors
 
- - A Senthil Nayagam ([railsfactory](http://github.com/railsfactory)) senthil at railsfactory dot org
+ - A Senthil Nayagam ([railsfactory](http://github.com/railsfactory)) senthil at railsfactory dot org , twitter @senthilnayagam
 
 ## Contributors
 
