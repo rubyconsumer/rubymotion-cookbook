@@ -22,4 +22,11 @@ Interctive Console/REPL is the killer feature which makes it worth diving into R
 This is a longer version and shows a full cycle of building a app from scratch, self explanatory.
 
 
+## Forum
+
+this is the place to go and find solutions for your problems, 
+
+[RubyMotion Google Group](https://groups.google.com/forum/?fromgroups#!forum/rubymotion)
+
+Most participants are early adopters, just like you and good discussions happen, please be polite and somebody would try to help you resolve your issues. Bonus, You can make feature requests as well. Just remember this is a closed/moderated group.
 
