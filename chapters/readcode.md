@@ -87,4 +87,14 @@ If you want your app be added, removed, please post a ticket
 [https://github.com/railsfactory/rubymotion-cookbook/issues](https://github.com/railsfactory/rubymotion-cookbook/issues)
 
 
+## Reading Apple iOS API Documentation
+
+Dash is a nice app to read iOS Documentation
+[Mac App Store link](http://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12)
+
+after downloading go to preferences and enable docsets and choose the libraries you would like to read and download, but for iOS you would need to download it inside xcode itself. iOS 5 documentation is about 500mb but still it is worth if you want to build or debug any non trivial apps
+
+* I found this gem from Steven Ringo on RubyMotion Group
+
+
 WIP
